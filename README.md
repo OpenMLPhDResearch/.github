@@ -95,8 +95,6 @@ We believe that collaboration drives innovation. By joining **OpenMLPhDResearch*
 ## 📈 Upcoming Events and Milestones
 
 We regularly host events such as:
-- Research workshops on Transformer models and multimodal learning.
-- Collaborative hackathons and coding sprints.
 - Webinars featuring experts in AI and machine learning.
 
 Follow us on [Twitter](https://twitter.com/rollademy) and [LinkedIn](https://linkedin.com/rollademy) to stay updated on upcoming events and the latest research.
